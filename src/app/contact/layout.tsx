@@ -6,7 +6,7 @@ export default function ContactLayout({
 })  {
     return (
         <div>
-            <h1> This is page component </h1>
+            <h1> This is Contact Layout </h1>
             {children}
         </div>
     );
